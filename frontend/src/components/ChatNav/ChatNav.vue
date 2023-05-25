@@ -36,8 +36,8 @@ const navType = {
 const navConfigs = [
   {
     key: navType.github,
-    label: '开源地址',
-    url: 'https://github.com/adams549659584/go-proxy-bingai',
+    label: 'QQ群聊',
+    url: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AzD5dTB02T0RS-9j4o79LtpJ_GVmN_-P&authKey=pM8tBnH0BRfJR9h7Kfn%2BNN%2FLPZy0fjJJFLGGjhOsxHSROmIR7%2Fg8LLvysX2qRi1o&noverify=0&group_code=345982124',
   },
   {
     key: navType.version,
