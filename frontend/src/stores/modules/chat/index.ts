@@ -32,8 +32,8 @@ export const useChatStore = defineStore(
         label: 'Cloudflare',
       },
       {
-        baseUrl: location.origin,
-        label: '本站',
+        baseUrl: 'https://bing.feng2001.top',
+        label: '枫妹接入点',
       },
       {
         baseUrl: '',
